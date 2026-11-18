@@ -1,4 +1,4 @@
-### Hi, I'm Iason 👋
+### Hi, I'm Jason 👋
 
 ECE student at NTUA (Athens). I work on systems and performance: infrastructure, low-latency software, memory hierarchies and GPU efficiency. Co-founder/CTO building energy and derivatives infrastructure.
 
